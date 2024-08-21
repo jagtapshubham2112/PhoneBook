@@ -46,7 +46,7 @@ This project is licensed under the MIT License. You can find the license details
 - v1.0 (Initial Release): Basic functionality implemented.
 
 **Acknowledgments:**
-- Special thanks to [mention any libraries, tutorials, or resources you used].
+- Special thanks to [ mention any libraries, tutorials, or resources you used ].
 
 **Note:**
 This project was created for educational purposes and may be subject to further updates or modifications.
